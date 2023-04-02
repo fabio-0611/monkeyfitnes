@@ -1,15 +1,15 @@
 
-<p align-text:"center">
+<p style="color: red" align="center" style: "background: linear-gradient(rgba(228, 28, 28, 0.9), rgba(96, 67, 67, 0.4))">
   <img src="https://bit.ly/3Trcr8h"width="300px">
 </p>
 <hr>
- <h1 text-align="center">Aplicação Web</h1>
-    <p text-align:"center">
-        <h1><img src="https://bit.ly/3Z4DGGR" width="200px"> Monkey Fitness Extremo</h1>
+ <h1 align="center">Aplicação Web</h1>
+    <p align="center">
+        <h1 align="center"><img src="https://bit.ly/3Z4DGGR" width="200px"> Monkey Fitness Extremo</h1>
       </p>
       <hr>
-<p align-center=r">Descrição</p>
-<p text-align:"justify">
+<p align="center">Descrição</p>
+<p align="justify">
 Projeto criado para divugação de uma landing page<b><i> para um cliente de uma academia, que trabalha já algum tempo com esse empreeendimento</b></i>, houve à necessidade da criação de uma aplicação web que fica disponível em uma plataforma gratuíta, para melhor apresentação da sua imagem e do seu empreendimento, então foi criado um site com apenas uma página em HTML5/CSS3 bem robusto. Como é para uma academia, junto com o cliente foi desenhado um layout para desenhar um template seguindo o passo a passo daquilo que o cliente precisava e necessitava, focamos muito em imagens de treinos.
 Foi desenvolvido todo o projeto com o desenvolvimento front-end, visando em toda parte da programação relativa à interface da aplicação, podendo ter uma aplicação gráfica do projeto. Ou seja, com a qual o usuário irá interagir diretamente,nesse caso um sites.<br>
 
@@ -45,7 +45,7 @@ E com o CSS, foi possível desenvolver um site extremamente elegante, bem otimiz
  ![GITHUB](https://img.shields.io/badge/-github-blue?logo=github&logoColor=white&&style=for-the-badge)
  <br>
 ## Status do Projeto
-<p class="center">
+<p align="center">
 
 ![Em Desenvolvimento](https://img.shields.io/badge/-Em%20Desenvolvimento-red?logo=&logoColor=white&&style=static) - Por se tratar de um site estamos sempre tentando evoluir no layout diante das necessidades do cliente.</p>
 
@@ -59,7 +59,7 @@ E com o CSS, foi possível desenvolver um site extremamente elegante, bem otimiz
 ## 🛠️ Abrir e rodar o projeto
 ## Links
 
-<p class="center">
+<p align="center">
 <a href="https://github.com/fabio-0611/monkeyfitnes"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="50px"></a>&nbsp
 <a href="https://deborinha.000webhostapp.com/](https://monkeyfitnexextremo.000webhostapp.com/">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZxQ5EWDk8bYqaUQpFeGFj2Phg8bSK5iLMEwcJd-Egw46QDwOl8_BuNw6_mBhyjl5BO4&usqp=CAU" width="50px" border="5em"> </a>
