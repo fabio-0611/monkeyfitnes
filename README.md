@@ -3,8 +3,8 @@
   <img src="https://bit.ly/3Trcr8h"width="300px">
 </p>
 <hr>
- <h1 align-center="center">Aplicação Web</h1>
-    <p align-cente="center">
+ <h1 text-align="center">Aplicação Web</h1>
+    <p text-align="center">
         <h1><img src="https://bit.ly/3Z4DGGR" width="200px"> Monkey Fitness Extremo</h1>
       </p>
       <hr>
