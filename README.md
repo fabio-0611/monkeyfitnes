@@ -1,15 +1,15 @@
 
-<p align-cente="center">
+<p align-text:"center">
   <img src="https://bit.ly/3Trcr8h"width="300px">
 </p>
 <hr>
  <h1 text-align="center">Aplicação Web</h1>
-    <p text-align="center">
+    <p text-align:"center">
         <h1><img src="https://bit.ly/3Z4DGGR" width="200px"> Monkey Fitness Extremo</h1>
       </p>
       <hr>
 <p align-center=r">Descrição</p>
-<p class="justify">
+<p text-align:"justify">
 Projeto criado para divugação de uma landing page<b><i> para um cliente de uma academia, que trabalha já algum tempo com esse empreeendimento</b></i>, houve à necessidade da criação de uma aplicação web que fica disponível em uma plataforma gratuíta, para melhor apresentação da sua imagem e do seu empreendimento, então foi criado um site com apenas uma página em HTML5/CSS3 bem robusto. Como é para uma academia, junto com o cliente foi desenhado um layout para desenhar um template seguindo o passo a passo daquilo que o cliente precisava e necessitava, focamos muito em imagens de treinos.
 Foi desenvolvido todo o projeto com o desenvolvimento front-end, visando em toda parte da programação relativa à interface da aplicação, podendo ter uma aplicação gráfica do projeto. Ou seja, com a qual o usuário irá interagir diretamente,nesse caso um sites.<br>
 
