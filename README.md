@@ -60,11 +60,10 @@ E com o CSS, foi possível desenvolver um site extremamente elegante, bem otimiz
 ## Links
 
 <p class="center">
-<a href="https://github.com/fabio-0611/monkeyfitnes"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="50px"></a>&nbsp
-<a href=["https://monkeyfitnesextremo.000webhostapp.com/"](https://monkeyfitnesextremo.000webhostapp.com/)>
+<a href="https://github.com/fabio-0611/monkeyfitnes"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="60px"></a>&nbsp
+<a href="https://monkeyfitnesextremo.000webhostapp.com/">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZxQ5EWDk8bYqaUQpFeGFj2Phg8bSK5iLMEwcJd-Egw46QDwOl8_BuNw6_mBhyjl5BO4&usqp=CAU" width="60px" border="5em"> </a>
 </P>
-
 
 
 ## Features
