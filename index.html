@@ -10,6 +10,31 @@
 </head>
 
 <body>
+    <div class="nav-bar">
+        <div class="dropdown">
+            <button class="mainmenubtn">
+                <img src="https://img.icons8.com/ios-filled/50/000000/menu--v1.png" />
+            </button>
+
+            <div class="dropdown-child">
+                <a href="#inicio">Inicio</a>
+                <a href="#espaco">Espaço</a>
+                <a href="#exercicios">Exercícios</a>
+                <a href="#serviços">Serviços</a>
+                <a href="#contato">Contatos</a>
+            </div>
+        </div>
+        <button class="menu-button">
+            <div class="menu-title">
+                <a href="./galeria.html">Galeria</a>
+            </div>
+        </button>
+      
+        <div class="menu-img">
+            <img src="./Img/Img-menu/img1.png" alt="Logo da Academia um gorila">
+        </div>
+    </div>
+    </div><!--
     <section class="menu">
         <div class="menu-img">
             <img src="./Img/Img-menu/img1.png" alt="Logo da Academia um gorila">
@@ -25,7 +50,7 @@
             <a href="#serviços">Serviços</a>
             <a href="#contato">Contatos</a>
         </div>
-    </section>
+    </section>-->
 
     <div class="container" id="inicio">
         <section class="grid-container grid-template-columns-2">
@@ -74,11 +99,23 @@
         </section>
     </div>
 
+    <!-- Teste de grid -->
+
+    <div class="gallery-grid">
+        <img src="./Img/img-gallery-grid/img1.png" alt="">
+        <img src="./Img/img-gallery-grid/img2.png" alt="">
+        <img src="./Img/img-gallery-grid/img3.png" alt="">
+
+    </div>
+
     <!-- NOsso Espaço -->
     <article class="espaco-post" id="espaco">
         <div class="espaco-post_img">
             <h1>Nosso espaço</h1>
-            <img src="./Img/img-espaco/img1.jpg" alt="Nosso Espaço">
+            <video controls="controls loop" autoplay loop muted>>
+                <source src="Img/img-espaco/video1.mp4" type="video/mp4">
+
+            </video>
         </div>
 
         <div class="espaco-post_info">
@@ -96,7 +133,7 @@
                 treinar, exercitar e conhecer novas amizades. Venha fazer uma visita e conheça nossa estrutura de
                 perto. Esperamos por você!
             </p>
-            <a href="#" class="espaco-post_cta">Venham conhecer a nossa academio</a>
+            <a href="#" class="espaco-post_cta">Venham conhecer a nossa academia</a>
         </div>
     </article>
 
@@ -365,52 +402,86 @@
                 melhor e com mais motivação. Além disso, observará ganhos em diferentes aspectos, </p>
         </div>
     </article>
-    <footer>
-        <div class="titulo">
-            <h1>Nossos Contatos</h1>
-        </div>
-        <div class="footer-contato" id="contato">
-            <div class="footer-redes">
-                <h5> Nossas redes sociais!</h5>
-                <li class="ri-insta">
-                    <a href="https://www.instagram.com/monkeyfitnessextremo/" target="_blank">
-                        <img src="https://img.icons8.com/fluent/96/instagram-new.png" />&nbsp;Instagram
-                    </a>
-                </li>
 
-                <li class="ri-insta">
-                    <a href="https://web.whatsapp.com" target="_blank">
-                        <img src="https://img.icons8.com/avantgarde/100/null/whatsapp.png" />&nbsp; whats-(11)98875-2665
-
-                    </a>
-                </li>
+    <div id="header">
+        <h1>Nossos Preços</h1>
+    </div>
+    <div class="container-servicos">
+        <div class="card-servicos">
+            <div class="card-image">
+                <img src="./Img/Img-servicos/img1.jpg">
             </div>
-            <div class="footer-redes">
-                <h5>Nossa localização</h5>
-                <a href="#">
-                    <div class="img-footer">
-                        <a href="https://bit.ly/3yLSwaO" target="_blank">
-                            <img src="./Img/img-espaco/img1.jpg" alt="">
+            <div class="card-text">
+                <h2 class="card-title">Musculação</h2>
+            </div>
+        </div>
+
+        <div class="card-servicos">
+            <div class="card-image">
+                <img src="./Img/Img-servicos/img2.jpg">
+            </div>
+            <div class="card-text">
+                <h2 class="card-title">Pacotes</h2>
+            </div>
+        </div>
+
+        <div class="card-servicos">
+            <div class="card-image">
+                <img src="./Img/Img-servicos/img3.jpg">
+            </div>
+            <div class="card-text">
+                <h2 class="card-title">Preços</h2>
+            </div>
+        </div>
+
+
+        <footer>
+            <div class="titulo">
+                <h1>Nossos Contatos</h1>
+            </div>
+            <div class="footer-contato" id="contato">
+                <div class="footer-redes">
+                    <h5> Nossas redes sociais!</h5>
+                    <li class="ri-insta">
+                        <a href="https://www.instagram.com/monkeyfitnessextremo/" target="_blank">
+                            <img src="https://img.icons8.com/fluent/96/instagram-new.png" />&nbsp;Instagram
                         </a>
-                    </div>
-                    <p>
-                        Avenida: Fernando Mendes de Almeida,682 Parada de Taipas
-                    </p>
-                </a>
+                    </li>
+
+                    <li class="ri-insta">
+                        <a href="https://web.whatsapp.com" target="_blank">
+                            <img src="https://img.icons8.com/avantgarde/100/null/whatsapp.png" />&nbsp;
+                            whats-(11)98875-2665
+
+                        </a>
+                    </li>
+                </div>
+                <div class="footer-redes">
+                    <h5>Nossa localização</h5>
+                    <a href="#">
+                        <div class="img-footer">
+                            <a href="https://bit.ly/3yLSwaO" target="_blank">
+                                <img src="./Img/img-espaco/img1.jpg" alt="">
+                            </a>
+                        </div>
+                        <p>
+                            Avenida: Fernando Mendes de Almeida,682 Parada de Taipas
+                        </p>
+                    </a>
+                </div>
+
             </div>
 
-        </div>
+            <div class="copyright">
+                &copy;2023 Produzido por Fábio Rocha de lima.<br>
+                <p> Contato: &nbsp;
+                    <a href="https://www.facebook.com/fabio.rocha.1004" target="_blank"> Facebook</a>.&nbsp;
+                    <a href="mailto:spartakfabi@gmail.com" target="_blank">E-mail</a>.&nbsp;
+                    <a href="https://www.instagram.com/fabio.rocha.1004" target="_blank">Instagram</a>.
+                    </p->
+            </div>
+        </footer>
 
-        <div class="copyright">
-            &copy;2023 Produzido por Fábio Rocha de lima.<br>
-            <p> Contato: &nbsp;
-                <a href="https://www.facebook.com/fabio.rocha.1004" target="_blank"> Facebook</a>.&nbsp;
-                <a href="mailto:spartakfabi@gmail.com" target="_blank">E-mail</a>.&nbsp;
-                <a href="https://www.instagram.com/fabio.rocha.1004" target="_blank">Instagram</a>.
-                </p->
-        </div>
-    </footer>
-
-    <!--  -->
+        <!--  -->
 
 </html>
