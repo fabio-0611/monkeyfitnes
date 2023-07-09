@@ -54,17 +54,16 @@ E com o CSS, foi possível desenvolver um site extremamente elegante, bem otimiz
 ## 📁 Acesso ao projeto
 - É possível baixar o projeto no próprio github ou navegar em uma plataforma web onde o site está hospedado que é uma plataforma gratuíta 000webhost. Basta clica na imagem abaixo para que será direcionado ao conteúdo.
 #### 
-<img src="https://bit.ly/3FvMbUM" width="40px"/> Como o site está hospedado em uma plataforma gratuíta pode ocorrer erro na hora de carregar à página pelo modo de segurança.
+<img src="https://bit.ly/3FvMbUM" width="50px"/> Como o site está hospedado em uma plataforma gratuíta pode ocorrer erro na hora de carregar à página pelo modo de segurança.
 
 ## 🛠️ Abrir e rodar o projeto
 ## Links
 
-<p align="center">
-<a href="https://github.com/fabio-0611/monkeyfitnes"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="50px"></a>&nbsp
-<a href="https://deborinha.000webhostapp.com/](https://monkeyfitnexextremo.000webhostapp.com/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZxQ5EWDk8bYqaUQpFeGFj2Phg8bSK5iLMEwcJd-Egw46QDwOl8_BuNw6_mBhyjl5BO4&usqp=CAU" width="50px" border="5em"> </a>
+<p class="center">
+<a href="https://github.com/fabio-0611/monkeyfitnes"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="60px"></a>&nbsp
+<a href="https://monkeyfitnesextremo.000webhostapp.com/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZxQ5EWDk8bYqaUQpFeGFj2Phg8bSK5iLMEwcJd-Egw46QDwOl8_BuNw6_mBhyjl5BO4&usqp=CAU" width="60px" border="5em"> </a>
 </P>
-
 
 
 ## Features
